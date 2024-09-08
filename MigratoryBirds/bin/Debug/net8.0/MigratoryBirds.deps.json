@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MigratoryBirds/1.0.0": {
+        "runtime": {
+          "MigratoryBirds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MigratoryBirds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

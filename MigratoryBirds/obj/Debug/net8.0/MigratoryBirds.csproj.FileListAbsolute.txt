@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\bin\Debug\net8.0\MigratoryBirds.exe
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\bin\Debug\net8.0\MigratoryBirds.deps.json
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\bin\Debug\net8.0\MigratoryBirds.runtimeconfig.json
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\bin\Debug\net8.0\MigratoryBirds.dll
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\bin\Debug\net8.0\MigratoryBirds.pdb
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.AssemblyInfo.cs
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.dll
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\refint\MigratoryBirds.dll
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.pdb
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\MigratoryBirds.genruntimeconfig.cache
+D:\KALEEM\pocies\MigratoryBirds\MigratoryBirds\obj\Debug\net8.0\ref\MigratoryBirds.dll

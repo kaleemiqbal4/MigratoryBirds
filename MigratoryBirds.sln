@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{A8440D1C-2D32-4795-91C2-8ECE0A916071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8440D1C-2D32-4795-91C2-8ECE0A916071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8440D1C-2D32-4795-91C2-8ECE0A916071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8440D1C-2D32-4795-91C2-8ECE0A916071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8440D1C-2D32-4795-91C2-8ECE0A916071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8411F007-7028-406B-BC5F-59D7DA9D0942}
+	EndGlobalSection
+EndGlobal
